@@ -1,0 +1,17 @@
+{
+  "id": "darkrai_cresselia_events",
+  "name": "Darkrai + Cresselia Events",
+  "version": "0.1.0",
+  "api": 2,
+  "entry": "main.lua",
+  "profile": "overhaul",
+  "category": "GAMEPLAY",
+  "games": ["firered", "leafgreen"],
+  "permissions": ["engine_internals"],
+  "priority": 121,
+  "dependencies": ["navel_rock_birth_island_events"],
+  "optional_dependencies": ["untamed_advanced", "national_dex_gen3"],
+  "conflicts": [],
+  "description": "Adds postgame Darkrai and Cresselia events to FireRed and LeafGreen.",
+  "github": "Panduino/Darkrai-Cresselia-Event"
+}
