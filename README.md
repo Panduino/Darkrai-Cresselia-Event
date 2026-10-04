@@ -6,4 +6,9 @@ After becoming Champion, Darkrai can appear at the top of Pokémon Tower at nigh
 
 After seeing the Darkrai event, Cresselia can appear at night in the old fossil chamber of Mt. Moon. If it is defeated instead of caught, it can return on a later visit.
 
-Requires the Navel Rock + Birth Island Restoration mod for the expanded roaming Pokémon system. The events also use Untamed Advanced for their overworld sprites and National Dex Gen 3 for the added species.
+## Required Mods
+
+- [Navel Rock + Birth Island Restoration](https://github.com/Panduino/Navel-Rock-and-Birth-Island-Restoration) - provides the expanded roaming Pokémon system used by Darkrai.
+- [Real Time Clock Test](https://github.com/PashleyAUS/Real-Time-Clock-for-FR-LG-Content-Editor-addon-showcase/tree/v0.1.0) - provides the real-time day/night cycle used by the events.
+- [Untamed Advanced](https://github.com/goldenroddeptstore/Untamed-Advanced) - provides the overworld Pokémon sprites.
+- [National Dex Gen 3](https://github.com/poooooby/national_dex_gen3) - provides the Gen 4 species support for Darkrai and Cresselia.
